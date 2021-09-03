@@ -1,4 +1,4 @@
-package com.fibo;
+
 
 // program to display nth fibonacci number(n given by user).
 
