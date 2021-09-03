@@ -1,4 +1,4 @@
-package com.chit2_9;
+
 
 import javax.microedition.lcdui.*;
 import javax.microedition.midlet.*;
