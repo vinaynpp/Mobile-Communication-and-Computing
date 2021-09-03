@@ -4,7 +4,6 @@ This is the repository where I have developed Java ME Applications using NetBean
 
 List of experiments:<br>
  WAP for simple calculator in J2ME<br>
- WAP to find the FACTORIAL of a given number in J2ME<br>
  WAP to check whether a given number is prime in J2ME.<br>
  WAP a program to check whether a given string is a palindrome in J2ME.<br>
  WAP a program to reverse a given string without using the standard functions in J2ME.<br>
