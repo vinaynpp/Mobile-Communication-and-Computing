@@ -1,5 +1,3 @@
-package com.chit1;
-
 import javax.microedition.midlet.MIDlet;
 import javax.microedition.midlet.MIDletStateChangeException;
 import javax.microedition.lcdui.*;
