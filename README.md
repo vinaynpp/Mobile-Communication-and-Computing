@@ -2,7 +2,7 @@
 
 This is the repository where I have developed Java ME Applications using NetBeans IDE, implemented Mobile security basic algorithms and explored NS2 Simulation tool.<br>
 
-List of experiments:<br>
+**List of experiments:**<br>
  WAP for simple calculator in J2ME<br>
  WAP to check whether a given number is prime in J2ME.<br>
  WAP a program to check whether a given string is a palindrome in J2ME.<br>
